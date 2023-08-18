@@ -1,4 +1,4 @@
-## Hey 👋, I'm [lanruixiang](https://lanruixiang.github.io/)!
+### Hey 👋, I'm [lanruixiang](https://lanruixiang.github.io/)!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lanruixiang&show_icons=true)
 
