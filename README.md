@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [lanruixiang](https://lanruixiang.github.io/)!
 
-![](/qrcode.jpg)
+<img src="/qrcode.jpg" width="15%">
 
 <!---
 lanruixiang/lanruixiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
