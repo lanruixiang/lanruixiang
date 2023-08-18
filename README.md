@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [lanruixiang](https://lanruixiang.github.io/)!
 
-<img src="/qrcode.jpg" width="15%">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mzlogin&show_icons=true) <img src="/qrcode.jpg" width="20%">
 
 <!---
 lanruixiang/lanruixiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
